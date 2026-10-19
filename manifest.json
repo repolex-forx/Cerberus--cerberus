@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1.0",
+  "org": "Cerberus",
+  "repo": "cerberus",
+  "versions": [
+    {
+      "commit": "13f5fb572dc8a0ca5a133665eb48f2a71495cc20",
+      "parsed_at": "2026-10-19T12:48:07.252071+00:00",
+      "filetree": "filetree/13f5fb572dc8a0ca5a133665eb48f2a71495cc20.nq.gz",
+      "blobs": [
+        "blob/25a843a56f6f398e62cd7cc3b0ae83944c400b10.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
