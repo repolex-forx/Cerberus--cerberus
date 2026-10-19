@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Cerberus/cerberus/commit/13f5fb572dc8a0ca5a133665eb48f2a71495cc20",
       "git:hexsha": "13f5fb572dc8a0ca5a133665eb48f2a71495cc20",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
